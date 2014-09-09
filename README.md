@@ -4,16 +4,6 @@ npm-cheatsheet
 List of useful commands for NPM
 
 
-npm-cheatsheet
-==============
-
-
-
-npm-cheatsheet
-==============
-
-
-
 ### List of useful commands for NPM
 
     # NPM CheatSheet.
